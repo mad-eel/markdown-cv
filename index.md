@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Łukasz Adamczyk CV
 ---
-# Isaac Newton
+# Łukasz Adamczyk
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
