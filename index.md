@@ -3,89 +3,70 @@ layout: cv
 title: Łukasz Adamczyk CV
 ---
 # Łukasz Adamczyk
-Physicist, Mathematician, Cambridge professor.
+Ruby Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mailto:adamczyk.lukasz.jerzy@gmail.com">adamczyk.lukasz.jerzy@gmail.com</a>
 </div>
 
+## Technical
 
-## Currently
+Ruby / Ruby on Rails
 
-Standing on the shoulders of giants
+JavaScript / React / jQuery 
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+RabbitMQ / PostgreSQL / MongoDB
 
 
-### Research interests
+## Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Sep 2015 - now`
+__Software Brothers__, _Ruby/RoR developer_
+
+__Technical environment__: Ruby, RabbitMQ, RoR, JS, jQuery, React, PostgreSQL, MongoDB
+
+Designing and developing software for various companies.
+
+Creating and maintaining software for an external cryptocurrency company:
+- \- working with both backend and frontend
+- \- designed and implemented an in-house KYC process
+- \- redesigned the whole system to handle many spot and futures order books  
+- \- integrated an external service - BitGo - for cryptocurrency transactions
+- \- taking care of an onboarding process
+- \- organising and documenting projects
+- \- improving development processes
+
+\-\-\-
+
+`Mar 2015 - Sep 2015`
+__VR Global__, _Web Developer_
+
+__Technical environment__: RoR, PostgreSQL
+
+Designed and developed a REST API serving data and media for VR Real Estate apps.
+
+\-\-\-
+
+`Oct 2013 - Feb 2015`
+__TLS24__, _Web Developer_
+
+__Technical environment__: RoR, JS, PostgreSQL
+
+Designed and developed a shipping exchange application on both backend and frontend.
+- Worked on an in-app chat.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011 - 2015`
+__Bachelor of Science in Computer Science__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+_Wrocław University of Science and Technology, Faculty of Computer Science and Management_
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+__BSc Thesis__: _Virtual Director in a video game_. 
+- Video Game prototype entitled _Galaxy Pirates_ that used so called _AI Director_ to control a level of the prototype's difficulty curve.
 
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+  Last updated: September 2019
+-->
